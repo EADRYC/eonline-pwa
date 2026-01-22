@@ -1,0 +1,20 @@
+{
+  "name": "E-Online Business",
+  "short_name": "E-Online",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff4500",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/Q1S35fF.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/2HWmn7K.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
