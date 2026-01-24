@@ -3,16 +3,16 @@
   "short_name": "E-Online",
   "start_url": "https://www.e-online.co.tz/?utm_source=pwa",
   "display": "standalone",
-  "background_color": "#ff4500",  
+  "background_color": "#ff4500",
   "theme_color": "#ff4500",
   "icons": [
     {
-      "src": "https://i.imgur.com/Q1S35fF.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM3G2GwHzJNrReT5BE77mg5gdPUPtJpufHbrsbLtRBdTcZemKJbYeZHIL4sr8OTrRK44MhylberOt_67_WBcdbsXY_ek8D5W-yc9ZjVECUO203-oZucdXAho3KTyCexp0nmG-BLnoh9x6TF1PI4WxOGaKvfiqROSqzbIjeSAWZLAMTINetLXioVFhQDUNF/s192/1000068307.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://i.imgur.com/2HWmn7K.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmq1QuOwJt1tmufkmHrA8e-j1K-bm0it66LQHQQpcLlckBH3aVFrhZxfKZPmosXKUGjMBKbj0u4QYM6V-hmcfk6XbiwkiRTxOSYA9E35jzNynH0dSZyUwIdgkLRErARRFCTTVD10VMbs_ThUqSNDAFgaoYvVtRrysUynTDi7bkhAjpFOTmydJV05ux5cEr/s512/1000068308.png",
       "sizes": "512x512",
       "type": "image/png"
     }
