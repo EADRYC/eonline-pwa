@@ -2,8 +2,8 @@ const CACHE_NAME = "eonline-cache-v1";
 const urlsToCache = [
   "/",
   "https://eadryc.github.io/eonline-pwa/manifest.json",
-  "https://i.imgur.com/Q1S35fF.png",  // 192px icon
-  "https://i.imgur.com/2HWmn7K.png"   // 512px icon
+  "https://i.imgur.com/Q1S35fF.png",
+  "https://i.imgur.com/2HWmn7K.png"
 ];
 
 self.addEventListener("install", event => {
@@ -20,4 +20,3 @@ self.addEventListener("fetch", event => {
       .then(response => response || fetch(event.request))
   );
 });
-
