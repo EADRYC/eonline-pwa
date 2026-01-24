@@ -3,7 +3,7 @@
   "short_name": "E-Online",
   "start_url": "/?utm_source=pwa",
   "display": "standalone",
-  "background_color": "#ff4500",  // hii ndiyo rangi ya splash screen
+  "background_color": "#ff4500",  
   "theme_color": "#ff4500",
   "icons": [
     {
